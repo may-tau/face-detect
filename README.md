@@ -1,4 +1,4 @@
-# Calipsa Test Frontend
+# Frontend
 
 In the "front" directory run:
 
@@ -6,7 +6,7 @@ In the "front" directory run:
 $ npm run build
 ```
 
-# Calipsa Test Backend
+# Backend
 
 In the "back" directory run:
 
